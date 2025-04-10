@@ -41,12 +41,12 @@ public class Developer {
     public static Team getTeam() {
         // TODO: Change this to your team name
         Team team = new Team("s25-06");
-        team.addMember("Aryan C.");
-        team.addMember("Rachit G.");
-        team.addMember("Riya G.");
-        team.addMember("Saeed A.");
-        team.addMember("Sanjana J.");
-        team.addMember("Yarwin L.");
+        team.addMember("Aryan");
+        team.addMember("Rachit");
+        team.addMember("Riya");
+        team.addMember("Saeed");
+        team.addMember("Sanjana");
+        team.addMember("Yarwin");
         return team;
     }
 }
